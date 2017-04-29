@@ -7,7 +7,7 @@ Introduction
 [Italian C++ Community](http://italiancpp.org) is a community intended for networking and
   collaboration in the C++ community.
 
-We value the participation of each member of the Italian C++ Community and
+We value the participation of each member of Italian C++ Community events and
   want all attendees to have an enjoyable and fulfilling experience.
 Accordingly, all participants are expected to show respect and courtesy to
   other participants throughout the conference and at all conference events,
