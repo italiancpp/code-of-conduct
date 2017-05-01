@@ -46,8 +46,7 @@ Excessive swearing and offensive jokes **are not appropriate** for any Italian C
 
 We do not tolerate harassment of conference participants in any form.
 If a participant engages in behavior that violates this code of conduct, the
-  conference organizers may take any action they deem appropriate, including
-  expulsion from the conference with no refund.
+  conference organizers may take any action they deem appropriate.
 Participants asked to stop any harassing behavior are expected to comply
   immediately.
 
@@ -67,6 +66,7 @@ If you are being harassed, notice that someone else is being harassed, or have
   any other concerns, please contact one of the following individuals: 
 
 * Marco Arena, President and Organizer, marco@italiancpp.org 
+* Alessandro Vergani, Staff, alessandro.vergani@live.com
 
 All reports and concerns are kept confidential. 
  
