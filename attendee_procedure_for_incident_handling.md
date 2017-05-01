@@ -15,13 +15,13 @@ assistance. If everyone is physically safe, involve law enforcement or security
 only at a victim's request. 
 
 2. **Inform the Code of Conduct conference staff of the incident.** Contact
-Marco, (info below) and inform him that an incident has
+Marco, Alessandro (info below) and inform him that an incident has
 occurred. All conference staff are familiar with the code of conduct and
 incident reporting procedure, and can assist you in contacting these
 individuals. 
 
 3. **Report the details to the Code of Conduct conference staff.** Provide
-Marco with a report describing the incident, preferably by
+Marco, Alessandro with a report describing the incident, preferably by
 email. All reports are confidential.
 
 Try to gather as much information as available, but do not interview people
@@ -47,3 +47,4 @@ The Code of Conduct conference staff are responsible for overseeing incident
 handling:
 
 * Marco Arena,              President and Organizer, [marco@italiancpp.org](mailto:marco@italiancpp.org)
+* Alessandro Vergani,       Staff, [alessandro.vergani@live.com](mailto:alessandro.vergani@live.com)
