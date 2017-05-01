@@ -21,7 +21,7 @@ everyone is physically safe, involve law enforcement or security only at a
 victim's request. 
 
 2. **Inform the Code of Conduct conference staff of the incident.**
-Marco (info below) should be contacted and informed
+Marco/Alessandro (info below) should be contacted and informed
 that an incident has occurred. 
 
 3. **Record what happened.** If possible, have the individual reporting the
@@ -38,7 +38,7 @@ The important information that should be recorded is:
 - The circumstances surrounding the incident.
 
 4. **Report the details to the Code of Conduct conference staff.** The
-information recorded should be sent to Marco, preferably by
+information recorded should be sent to Marco/Alessandro, preferably by
 email.
 
 5. **Make an initial response to the incident.** Depending on the
@@ -66,13 +66,13 @@ There are also some guidelines as to what not to do as an initial response:
     conference staff. 
 
 6. **Contact the alleged harasser(s).** A conference staff member (preferably
-Marco) should communicate with the alleged harasser(s). The
+Marco/Alessandro) should communicate with the alleged harasser(s). The
 alleged harasser(s) should be informed of what has been reported about them.
 Allow the alleged harasser to provide their side of the story and record it as
 per step 3.
 
 7. **Meet with Code of Conduct conference staff to decide a response.** Meet
-with Marco. The main objectives of this meeting is to
+with Marco/Alessandro. The main objectives of this meeting is to
 determine:
 
 - What happened?
@@ -100,7 +100,7 @@ Keep in mind that it is not a good idea to encourage an apology from the
 harasser.
 
 8. **Inform accused individual(s) of any actions that will be taken.** A
-conference staff member (preferably Marco) should
+conference staff member (preferably Marco/Alessandro) should
 communicate with the alleged harasser(s). Let the accused individual(s) know if
 there is a forum for them to appeal the decision, but that the decision will
 stand in the meantime.
@@ -113,10 +113,10 @@ details of the incident should not be shared unless it is necessary.
 
 If some attendees were angered by the incident, it is best to apologize to them
 that the incident occurred to begin with. If there are residual hard feelings,
-suggest that they write an email to Marco.
+suggest that they write an email to Marco/Alessandro.
 
 10. **The Code of Conduct conference staff will make an announcement if
-necessary.** Marco may decide to make a
+necessary.** Marco/Alessandro may decide to make a
 public announcement about the incident. If an announcement is made, the privacy
 of individual attendees should be respected. Personal information and details
 of the incident should not be shared unless it is necessary.
@@ -128,3 +128,4 @@ The Code of Conduct conference staff are responsible for overseeing incident
 handling:
 
 * Marco Arena,              President and Organizer, [marco@italiancpp.org](mailto:marco@italiancpp.org)
+* Alessandro Vergani,       Staff, [alessandro.vergani@live.com](mailto:alessandro.vergani@live.com)
